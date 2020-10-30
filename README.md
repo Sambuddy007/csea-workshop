@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd Sufiyan Ansari</h1>
+<h1 align="left">Hi 👋, I'm Mohd Sufiyan Ansari</h1>
 <h3 align="center">A Second Year B Tech Undergraduate from National Institute of Technology Warangal, India</h3>
 
 <br/>
