@@ -14,6 +14,17 @@
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a><a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </a></p>
+
+<br>
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="www.linkedin.com/in/sufiyan-ansari-nitw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mcanv" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/imsuffi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="canvarer" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/addsufiyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="canvarer" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@sufiyan133" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="canvarer" height="30" width="40" /></a>
+<a href="https://codechef.com/sufiyan133" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="canvarer" height="30" width="40" /></a>
+</p>
+
 <br>
 <h3 sligh=left>Github Trophies,Stats and Top Language Used : </h3>
 <br>
