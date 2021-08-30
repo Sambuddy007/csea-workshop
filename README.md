@@ -26,7 +26,12 @@
 - 📫 How to reach me **addsufiyan@gmail.com**
 
 <br/>
-  <hr/>
+<hr/>
+
+<h3 align="center">My Contribution Graph:</h3>
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=suffisme&theme=xcode"></p>
+<br/>
+<hr/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/suffisme" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="suffisme" height="30" width="40" /></a>
