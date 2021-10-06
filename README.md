@@ -11,19 +11,33 @@
 
 ##  🙋‍♂️ About Me
 
-- 🔭 I’m currently a pre-final year student at **[National Institute of Technology, Warangal](https://www.nitw.ac.in)**
-
-- 🌱  I like to do Web Development and I use **Django** as preferred backend framework.
-
-- 🌱 I’m currently working as developer in **[WSDC NITW](https://wsdc.nitw.ac.in)**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects** and interested in participating in **Hackathons**
-
-- 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/suffisme?tab=repositories)**
-
-- 👨‍💻 Visit my PORTFOLIO [suffisme.github.io](suffisme.github.io)
-
-- 📫 How to reach me **addsufiyan@gmail.com**
+<table>
+  <td>
+    <ul>
+      <li>
+        <p>🔭 I’m currently a pre-final year student at <strong><a href="https://www.nitw.ac.in">National Institute of Technology, Warangal</a></strong></p>
+      </li>
+      <li>
+        <p>🌱  I like to do Web Development and I use <strong>Django</strong> as preferred backend framework.</p>
+      </li>
+      <li>
+        <p>🌱 I’m currently working as developer in <strong><a href="https://wsdc.nitw.ac.in">WSDC NITW</a></strong></p>
+      </li>
+      <li>
+        <p>👯 I’m looking to collaborate on <strong>OpenSource Projects</strong> and interested in participating in <strong>Hackathons</strong></p>
+      </li>
+      <li>
+        <p>👨‍💻 All of my projects are available at <strong><a href="https://github.com/suffisme?tab=repositories">My Repositories</a></strong></p>
+      </li>
+      <li>
+        <p>👨‍💻 Visit my PORTFOLIO <a href="suffisme.github.io">suffisme.github.io</a></p>
+      </li>
+      <li>
+        <p>📫 How to reach me <strong>addsufiyan@gmail.com</strong></p>
+      </li>
+    </ul>
+  </td>
+</table>
 
 <br/>
 <hr/>
@@ -32,6 +46,11 @@
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=suffisme&theme=xcode"></p>
 <br/>
 <hr/>
+<h3 align="center">Github Summary:</h3>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suffisme"  display=block width=100% height=auto alt="1"></p>
+<br/>
+<hr/>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/suffisme" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="suffisme" height="30" width="40" /></a>
@@ -51,21 +70,36 @@
 <br/>
 <hr/>
 <div align="center"> 
-<h3 align="center">Github Trophies:</h3>
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suffisme" alt="suffisme" /></a> </p>
+<h3 align="center">Github Trophies & Streaks:</h3>
+<p>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suffisme&column=3" alt="suffisme" /></a>
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suffisme&" alt="suffisme" />
+      </td>
+    </tr>
+ </table>
+</p>
 <br/>
 <hr/>
-<h3 align="center">My Top Languages on Github:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suffisme&show_icons=true&locale=en&layout=compact" alt="suffisme" /></p>
-<br/>
-<hr/>
-<h3 align="center">My Profile Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suffisme&show_icons=true&locale=en" alt="suffisme" /></p>
+<h3 align="center">Top Languages & Stats:</h3>
+<p>
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suffisme&show_icons=true&locale=en&layout=compact" alt="suffisme" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=suffisme&show_icons=true&locale=en" alt="suffisme" />
+      </td>
+    </tr>
+ </table>
+</p>
 <br/>
   <hr/>
- <h3 align="center">Streaks and Activeness:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suffisme&" alt="suffisme" /></p>
-  <br><hr>
   <p>Thank You For Visiting</p>
   <p>- Sufiyan Ansari</p>
 </div>
