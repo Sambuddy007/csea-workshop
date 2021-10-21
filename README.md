@@ -21,7 +21,7 @@
         <p>🌱  I like to do Web Development and I use <strong>Django</strong> as preferred backend framework.</p>
       </li>
       <li>
-        <p>🌱 I’m currently working as developer in <strong><a href="https://wsdc.nitw.ac.in">WSDC NITW</a></strong></p>
+        <p>🌱 I’m currently working as Senior Developer in <strong><a href="https://wsdc.nitw.ac.in">WSDC NITW</a></strong></p>
       </li>
       <li>
         <p>👯 I’m looking to collaborate on <strong>OpenSource Projects</strong> and interested in participating in <strong>Hackathons</strong></p>
