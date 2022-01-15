@@ -18,17 +18,20 @@
         <p>🔭 I’m currently a pre-final year student at <strong><a href="https://www.nitw.ac.in">National Institute of Technology, Warangal</a></strong></p>
       </li>
       <li>
-        <p>🌱  I like to do Web Development and I use <strong>Django</strong> as preferred backend framework.</p>
+        <p>🌱  I like to do Backend Development using Django / ExpressJS+NodeJS.</p>
       </li>
       <li>
         <p>🌱 I’m currently working as Senior Developer in <strong><a href="https://wsdc.nitw.ac.in">WSDC NITW</a></strong></p>
       </li>
       <li>
+        <p>👨‍💻 I am a Joint Secretary at <strong>CSE Association, NITW</strong></p>
+      </li>
+<!--       <li>
         <p>👯 I’m looking to collaborate on <strong>OpenSource Projects</strong> and interested in participating in <strong>Hackathons</strong></p>
       </li>
       <li>
         <p>👨‍💻 All of my projects are available at <strong><a href="https://github.com/suffisme?tab=repositories">My Repositories</a></strong></p>
-      </li>
+      </li> -->
       <li>
         <p>👨‍💻 Visit my PORTFOLIO <a href="suffisme.github.io">suffisme.github.io</a></p>
       </li>
@@ -46,10 +49,10 @@
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=suffisme&theme=xcode"></p>
 <br/>
 <hr/>
-<h3 align="center">Github Summary:</h3>
+<!-- <h3 align="center">Github Summary:</h3>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suffisme"  display=block width=100% height=auto alt="1"></p>
 <br/>
-<hr/>
+<hr/> -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
