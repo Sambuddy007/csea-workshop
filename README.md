@@ -78,10 +78,10 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suffisme&column=3" alt="suffisme" /></a>
+        <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?theme=dracula&username=suffisme&column=3" alt="suffisme" /></a>
       </td>
       <td>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suffisme&" alt="suffisme" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suffisme&theme=prussian" alt="suffisme" />
       </td>
     </tr>
  </table>
@@ -93,10 +93,10 @@
   <table>
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suffisme&show_icons=true&locale=en&layout=compact" alt="suffisme" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suffisme&show_icons=true&locale=en&layout=compact&theme=prussian" alt="suffisme" />
       </td>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=suffisme&show_icons=true&locale=en" alt="suffisme" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=suffisme&show_icons=true&locale=en&theme=prussian" alt="suffisme" />
       </td>
     </tr>
  </table>
